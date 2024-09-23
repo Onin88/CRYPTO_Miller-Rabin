@@ -1,4 +1,4 @@
-DM de Cryptographie : Implémentation de l'algorithme Miller-Rabin
+Projet de Cryptographie : Implémentation de l'algorithme Miller-Rabin
 ====================
 Auteurs :
 - GEHIN Sandy
@@ -21,7 +21,7 @@ Un système de Thread a été mis en place pour augmenter la perfomance.
 Ce fichier contient une première compilation de notre code.
 
 ##Compilation
-Pour compiler ce DM et lancer tous les tests, il faut simplement
+Pour compiler ce projet et lancer tous les tests, il faut simplement
 executer la commande "make test", celle-ci va tester toutes les fonctions
 de chaque question et mettre la sortie de ce résultat dans le fichier
 "test.txt". Le graphique apparaîtra quand tous les tests se seront terminés.
